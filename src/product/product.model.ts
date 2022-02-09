@@ -1,4 +1,5 @@
 class ProductModel {
+	_id: string;
 	image: string;
 	title: string;
 	price: number;

@@ -1,4 +1,5 @@
 class ReviewModel {
+	_id: string;
 	name: string;
 	phone: number;
 	title: string;

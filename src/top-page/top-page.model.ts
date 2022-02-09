@@ -6,6 +6,7 @@ enum TopLevelCategory {
 }
 
 class TopPageModel {
+	_id: string;
 	firstCategory: TopLevelCategory;
 	secondCategory: string;
 	title: string;
